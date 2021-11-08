@@ -271,6 +271,7 @@ header ul li a:hover
 {
     letter-spacing: 1px;
     font-size: 1.5em;
+    padding: 0 0 0 20px;
 }
 .profile
 {
