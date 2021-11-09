@@ -266,6 +266,7 @@ header ul li a:hover
     padding: 20px;
     letter-spacing: 1px;
     font-size: 1.5em;
+    text-align: justify;
 }
 .legals li
 {
