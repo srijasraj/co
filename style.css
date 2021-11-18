@@ -37,6 +37,9 @@ body {
     height: 40vh;
     margin: 100px 0 0 0;
 }
+.profile {
+    height: 40vh;
+}
 .button {
     display: inline-block;
     margin-bottom: 1.5em;
