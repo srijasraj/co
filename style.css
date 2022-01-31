@@ -12,7 +12,7 @@
     justify-content: center;
 }
 
-.card {
+.card-1 {
     display: flex;
     margin: 15px;
     width: 1400px;
@@ -20,18 +20,18 @@
     border-radius: 30px;
     background-color: #d9d9d9;
     align-items: center;
-    background-image: url("b1.jpg");
+    background-image: url("/home/srijasraj/Documents/untitled project/assets/b1.jpg");
     background-position: 20% 50%;
 }
 
-.card h1 {
+.card-1 h1 {
     padding-left: 25px;
     padding-bottom: 15px;
     font-size: 5em;
     letter-spacing: 25px;
 }
 
-.card li {
+.card-1 li {
     left: 225px;
     padding-left: 25px;
     font-size: 2em;
@@ -50,4 +50,26 @@
     width: 90px;
     height: 90px;
     margin: 15px 40px 15px 40px;
+}
+
+.card-2 {
+    display: flex;
+    margin: 15px;
+    width: 1400px;
+    height: 800px;
+    justify-content: center;
+}
+
+.card-2 div {
+    justify-content: center;
+}
+
+.card-2 h2 {
+    font-size: 4em;
+    padding: 100px 0 100px 0;
+}
+
+.card-2 p {
+    font-size: 1.3em;
+    padding: 10px;
 }
